@@ -1,0 +1,1 @@
+My goal is to make a basketball game that counts as many times you score and has a time limit with a visual clock and score. I would have to make the ball reset evrytime it goes in the net but I am able to drag the ball on background.
