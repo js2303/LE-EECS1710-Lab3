@@ -2,4 +2,4 @@ I decided to make a virtual keyboard. The row of keys starting with a and ending
 and the row above from q to [ is the secocond half of keys on the virtual keyboard. Different keys play different notes an when you press a key on the computer the key 
 on the virtual keyboard flashes red to show you which it is. There is a variety of different pitches and sounds that can be all used whenever and as many times that you 
 press a key. To get the x coordinates I used to draw the keys I initially wanted to use a loop like how I loaded the sound files, with the equation (800/22) * x where is the 
-number of it is from the left. Using a for loop was not working very well because I needed to multiply by a different value everytime. To exit the application press space bar.
+number of it is from the left. Using a loop was not working very well because I needed to multiply by a different value everytime and have all the right 22 numbers in the right spots in the array. To exit the application press space bar.
